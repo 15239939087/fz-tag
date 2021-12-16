@@ -1,6 +1,6 @@
 {
   "name": "fz-tag",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "prepublish": "tsc",
   "description": "React Native Component for tag",
   "main": "src/index.tsx",
