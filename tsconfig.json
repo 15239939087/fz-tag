@@ -63,5 +63,5 @@
   },
   "include": [
     "src"
-  ]
+, "index.tsx"  ]
 }
