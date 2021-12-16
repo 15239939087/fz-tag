@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arpitBhalla/rn-arc-slider.git"
+    "url": "git+https://github.com/15239939087/fz-tag.git"
   },
   "keywords": [
     "react-native",
@@ -25,9 +25,9 @@
   "author": "Arpit Bhalla",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arpitBhalla/rn-arc-slider/issues"
+    "url": "https://github.com/15239939087/fz-tag.git"
   },
-  "homepage": "https://github.com/arpitBhalla/rn-arc-slider#readme",
+  "homepage": "https://github.com/15239939087/fz-tag#readme",
   "peerDependencies": {
     "react": "^17.0.2",
     "react-native": "^0.62.0",
