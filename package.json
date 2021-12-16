@@ -1,8 +1,8 @@
 {
-  "name": "tuya-panel-appliances-tag",
-  "version": "0.0.3",
+  "name": "fz-tag",
+  "version": "0.0.2",
   "prepublish": "tsc",
-  "description": "React Native Component for arc slider using React Native Svg",
+  "description": "React Native Component for tag",
   "main": "dist/index.js",
   "files": [
     "dist/**"
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "jest",
     "build:docs": "ts-node scripts/docs.ts",
-    "build": "npm run build:docs && tsc"
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
     "rn",
     "react-native-slider"
   ],
-  "author": "Arpit Bhalla",
+  "author": "Chen Wei",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/15239939087/fz-tag.git"
